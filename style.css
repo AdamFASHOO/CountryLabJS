@@ -1,0 +1,37 @@
+.centerElement{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.leftFloat{
+    float: left;
+}
+
+.halfWidth{
+     width: 70%;
+}
+
+div{
+    border-style: groove;
+    border-width: 1px;
+    border-color: black;
+    height: 700px;
+}
+
+#Color1{
+    text-align: center;
+    background-color:steelblue;
+}
+
+#Color2{
+    background-color:steelblue;
+}
+
+#Color3{
+    background-color:white;
+}
+
+.body{
+    text-align: center;
+}
